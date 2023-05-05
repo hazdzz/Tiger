@@ -1,7 +1,6 @@
 import torch
 from torch.optim.optimizer import Optimizer
 
-
 class Tiger(Optimizer):
   r"""A Pytorch Implementation of Tiger."""
 

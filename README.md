@@ -1,5 +1,6 @@
 # Tiger
 A **Tig**ht-fisted Optimiz**er**
+![tiger](./tiger.png)
 
 ## About
 A Tight-fisted Optimizer, implemented with PyTorch.
